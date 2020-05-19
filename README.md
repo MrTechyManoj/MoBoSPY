@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/MrTechyManoj/MoBoSPY/server/assets/webpublic/logo.png" height="60"><br>
+<img src="https://github.com/MrTechyManoj/MoBoSPY/raw/master/server/assets/webpublic/logo.png" height="60"><br>
 A cloud based Android Spying or Monitoring Tool, powered by NodeJS
 </p>
 
