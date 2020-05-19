@@ -1,0 +1,138 @@
+Manifest-Version: 1.0
+Created-By: 1.6.0_21 (d2j-2.1-SNAPSHOT)
+
+Name: res/layout/notification_action.xml
+SHA1-Digest: MGlGzY3SwzEyvDe0MmIFGKkXdr4=
+
+Name: res/drawable-mdpi/notification_bg_low_normal.9.png
+SHA1-Digest: sUXBSDmIwrVhXMAYtsmpMAdZsVM=
+
+Name: res/drawable-v21/notification_action_background.xml
+SHA1-Digest: wMgAbOGWfKCSuOZkDuQTSEfXmyU=
+
+Name: AndroidManifest.xml
+SHA1-Digest: 0LamJClixZCXWWkBT21MuHT430U=
+
+Name: res/layout/notification_template_icon_group.xml
+SHA1-Digest: eqIEaz6ICx1IjXoA8yHYl9PbWDs=
+
+Name: res/drawable/notification_bg.xml
+SHA1-Digest: 0Sw0uHSaJVcjxlznUKZ7Q5KoO40=
+
+Name: res/layout/notification_template_custom_big.xml
+SHA1-Digest: dhLt8wbcXsyxDnoamv0oABZtCzY=
+
+Name: res/mipmap-xhdpi/ic_launcher.png
+SHA1-Digest: WKjvi4P2q38GU/ySRMQEHdEnnYM=
+
+Name: res/drawable-hdpi/notification_bg_low_normal.9.png
+SHA1-Digest: D2PhKM51tYZo8a79riJ3XiUD2nc=
+
+Name: res/drawable-hdpi/notification_bg_normal.9.png
+SHA1-Digest: ralFi/xjLzZzimSmlAGCFAUgfbE=
+
+Name: res/layout-v17/notification_action_tombstone.xml
+SHA1-Digest: lhLgjf3Z7HnkGWdYpQ+gUqK7DTs=
+
+Name: res/layout-v17/activity_main.xml
+SHA1-Digest: R7lOWo8XZ+cST/c1xJuD/e0Km6E=
+
+Name: res/drawable-mdpi/notification_bg_normal_pressed.9.png
+SHA1-Digest: qf8Bo3OrZFOkS8OQT2FTwy3VSA8=
+
+Name: res/drawable/notification_tile_bg.xml
+SHA1-Digest: 9OPQ50KOkqnQw+lFek8O+9CgA7I=
+
+Name: res/drawable-hdpi/notify_panel_notification_icon_bg.png
+SHA1-Digest: inKyhhyZgO65645KR/OH06l6dAc=
+
+Name: res/drawable-xhdpi/notification_bg_low_pressed.9.png
+SHA1-Digest: 9MYmMKRnfwttaoRGc1WDg0jzgyY=
+
+Name: res/drawable-xhdpi/notification_bg_normal.9.png
+SHA1-Digest: URz3Lz/tIjMAtXfNHimWcDQLTtQ=
+
+Name: res/layout-v21/notification_template_custom_big.xml
+SHA1-Digest: l74POmKYhfrNyrbqW+OCZ9hRNWo=
+
+Name: res/layout-v17/notification_action.xml
+SHA1-Digest: nxqYhpZzvsUAVqIdM8h9Q8UiN5s=
+
+Name: res/layout-v17/notification_template_custom_big.xml
+SHA1-Digest: dYdwQDFeF4rSRbfc9oTgLYmYkCg=
+
+Name: res/layout-v21/notification_action_tombstone.xml
+SHA1-Digest: Tn9/Ilzzcph4Yni2g1SyzNLfK0k=
+
+Name: res/drawable/notification_bg_low.xml
+SHA1-Digest: rLt5QC/vYtiJCvddryBbYAYzlq8=
+
+Name: res/layout/notification_action_tombstone.xml
+SHA1-Digest: UC2kFhP2xbz1qGAGl9qcViY3kb8=
+
+Name: res/mipmap-mdpi/ic_launcher.png
+SHA1-Digest: OyfDVhXlnO7swYMuL/7iGrAwFHI=
+
+Name: res/mipmap-xxxhdpi/ic_launcher.png
+SHA1-Digest: oV+mJWuwXQiyVFZwkWWaGzyrL7U=
+
+Name: res/layout/activity_main.xml
+SHA1-Digest: 2NZEgESYVBwUNCC2r+9QwdzHskA=
+
+Name: res/drawable-xhdpi/notification_bg_low_normal.9.png
+SHA1-Digest: dnObiFrk1DvtR5VGgJWQwE6oNeo=
+
+Name: res/drawable-mdpi/notification_bg_normal.9.png
+SHA1-Digest: Wl4jBkhtPS9E+JkWaS0GOyoMbuw=
+
+Name: res/layout-v21/notification_template_icon_group.xml
+SHA1-Digest: kLG+UXtuJIW3kpcTFCS5ajeaKnk=
+
+Name: res/layout-v16/notification_template_custom_big.xml
+SHA1-Digest: +FjIpB08d1X9P4gRmRJY27zfxBE=
+
+Name: res/xml/device_admin.xml
+SHA1-Digest: 4374FT0OJmIhZZhCaag4Rl9Vnk4=
+
+Name: res/layout-v21/notification_action.xml
+SHA1-Digest: OD8Z1LpDFy6luNWEO9TxVL1rHh4=
+
+Name: res/mipmap-xxhdpi/ic_launcher.png
+SHA1-Digest: oV+mJWuwXQiyVFZwkWWaGzyrL7U=
+
+Name: res/drawable-mdpi/notify_panel_notification_icon_bg.png
+SHA1-Digest: cz2cTpSbxUR34pkCMo3M7a+mSXk=
+
+Name: res/drawable-hdpi/notification_bg_normal_pressed.9.png
+SHA1-Digest: 4j+L3Jzr2U70TU9dUenWhtYe/lU=
+
+Name: res/drawable-xhdpi/notify_panel_notification_icon_bg.png
+SHA1-Digest: cuJ+cwlm5QO6frAFAjbS9w6zhJ4=
+
+Name: res/layout/notification_template_part_chronometer.xml
+SHA1-Digest: 4z8nBFhFa/XkjQGh89rTvmtU7QI=
+
+Name: res/drawable-hdpi/notification_bg_low_pressed.9.png
+SHA1-Digest: NP77wvGcwseigxPz8Z8jideVqXk=
+
+Name: res/drawable-mdpi/notification_bg_low_pressed.9.png
+SHA1-Digest: 58BeVrWmam0XTYtOcBJSh3YmiJQ=
+
+Name: res/layout/notification_template_part_time.xml
+SHA1-Digest: hPlaJgKWOvkS2krrOolZ2EXONDg=
+
+Name: res/drawable-xhdpi/notification_bg_normal_pressed.9.png
+SHA1-Digest: iJFesSsAAmE1zFB9XbiCZW1cKKU=
+
+Name: res/mipmap-hdpi/ic_launcher.png
+SHA1-Digest: fq8gorsNg49/bEklF0UX0275QiI=
+
+Name: resources.arsc
+SHA1-Digest: xgEy3fHdRYfLxFtLzvaBjcrXpWw=
+
+Name: res/drawable/notification_icon_background.xml
+SHA1-Digest: gvh+kqSAcUO8bypLDt10JLl/Ttw=
+
+Name: classes.dex
+SHA1-Digest: HwqJgifnDRwG9HJXgfCw0Uqdl14=
+
